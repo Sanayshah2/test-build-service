@@ -16,7 +16,7 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
       <button id="counter" type="button"></button>
     </div>
     <p class="read-the-docs">
-      Click on the Vite and TypeScript logos to learn more. Build from the git commit 3
+      Click on the Vite and TypeScript logos to learn more. Build from the git commit 5
     </p>
   </div>
 `
